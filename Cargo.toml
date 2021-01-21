@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "01-hello-rustdoc",
+   "02-module-comments",
+    "03-crate-comments",
+    "04-its-markdown",
+    "05-ensure-docs",
+    "06-code-samples",
+    "07-code-samples-setup",
+    "08-all-the-links",
+]
